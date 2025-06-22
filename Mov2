@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antiordem - Contra o Comum</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>ANTI<span>ORDEM</span></h1>
+        <p>Contra o comum. Vista-se diferente.</p>
+    </header>
+
+    <section class="banner">
+        <h2>Nova coleção em breve</h2>
+        <p>Fique ligado nas novidades da Antiordem.</p>
+    </section>
+
+    <section class="links">
+        <a href="https://www.instagram.com/seuinstagram" target="_blank">Instagram</a>
+        <a href="https://wa.me/55seunumerowhatsapp" target="_blank">WhatsApp</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Antiordem. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
